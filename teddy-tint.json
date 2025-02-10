@@ -1,0 +1,96 @@
+{
+  "keys": ["???"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Teddy Tint",
+  "rpc": "???",
+  "dateOnSaleFrom": null,
+  "owner": "MatusC",
+  "contents": [
+    {
+      "name": "Teddy Tint",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "SuperStay Teddy Tint",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV-mobile.jpg",
+                "element": "img",
+                "alt": "SuperStay Teddy Tint",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD02.jpg",
+                "element": "img",
+                "alt": "Pluszowy mat. Lekka, wegańska formuła. Trwałość do 12h*",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD02-mobile.jpg",
+                "element": "img",
+                "alt": "Pluszowy mat. Lekka, wegańska formuła. Trwałość do 12h*",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

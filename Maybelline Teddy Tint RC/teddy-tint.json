@@ -1,0 +1,23 @@
+{
+    "keys": [
+        "???"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Teddy Tint",
+    "rpc": "???",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Teddy Tint",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+
+                ]
+            }
+        }
+    ]
+}
