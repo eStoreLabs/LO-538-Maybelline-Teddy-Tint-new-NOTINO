@@ -1,23 +1,466 @@
 {
-    "keys": [
-        "???"
-    ],
-    "type": 0,
-    "language": "pl-PL",
-    "campaign": "Teddy Tint",
-    "rpc": "???",
-    "dateOnSaleFrom": null,
-    "owner": "MatusC",
-    "contents": [
-        {
-            "name": "Teddy Tint",
-            "key": "",
-            "isApproved": false,
-            "rich": {
-                "components": [
-
-                ]
+  "keys": ["???"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Teddy Tint",
+  "rpc": "???",
+  "dateOnSaleFrom": null,
+  "owner": "MatusC",
+  "contents": [
+    {
+      "name": "Teddy Tint",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "SuperStay Teddy Tint",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
             }
-        }
-    ]
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV-mobile.jpg",
+                "element": "img",
+                "alt": "SuperStay Teddy Tint",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD02.jpg",
+                "element": "img",
+                "alt": "Pluszowy mat. Lekka, wegańska formuła. Trwałość do 12h*",
+                "properties": {}
+              }
+            ],
+            "properties": { "paddingInline": "1.5rem" },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD02-mobile.jpg",
+                "element": "img",
+                "alt": "Pluszowy mat. Lekka, wegańska formuła. Trwałość do 12h*",
+                "properties": {}
+              }
+            ],
+            "properties": { "paddingInline": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<div><h2 style=\"margin-bottom:0px\">TINT DO UST <strong>SUPER STAY TEDDY TINT</strong></h2><h2 style=\"margin-top:0px\">OD MAYBELLINE NEW YORK</h2><div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginBottom": "1.5rem",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFour",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Matowe wykończenie",
+                "element": "h4",
+                "properties": {
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD03-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Od delikatnego efektu blur po intensywny kolor",
+                "element": "h4",
+                "properties": {
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD03-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Nie pozostawia śladów",
+                "element": "h4",
+                "properties": {
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD03-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Wegańska formuła",
+                "element": "h4",
+                "properties": {
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "MOD03-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "paddingInline": "1.5rem"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<div><h2 style=\"margin-bottom:0px\">ODCIENIE <strong>SUPER STAY TEDDY TINT</strong></h2><div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginBottom": "1.5rem",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD04.jpg",
+                "element": "img",
+                "alt": "10 - Current mood. 25 - Baby tee. 30 - Coquettish. 30 - Petalcore. 50 - Wild at heart.",
+                "properties": {}
+              }
+            ],
+            "properties": { "paddingInline": "1.5rem" },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD04-mobile.jpg",
+                "element": "img",
+                "alt": "10 - Current mood. 25 - Baby tee. 30 - Coquettish. 30 - Petalcore. 50 - Wild at heart.",
+                "properties": {}
+              }
+            ],
+            "properties": { "paddingInline": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD05.jpg",
+                "element": "img",
+                "alt": "Kremowa formuła. Pluszowa miękkość. Bogata pigmentacja.",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD05-mobile.jpg",
+                "element": "img",
+                "alt": "Kremowa formuła. Pluszowa miękkość. Bogata pigmentacja.",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<div><h2 style=\"margin-bottom:0px\"><strong>ODKRYJ SUBTELNE ODCIENIE</strong></h2><h2 style=\"margin-bottom:0px\">O BOGATEH PIGMENTACJI, KTÓRĄ MOŻESZ STOPNIOWAĆ</h2><div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginBottom": "1.5rem",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD06.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD06-mobile.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<div><h2 style=\"margin-bottom:0px\">DOPEŁNIJ <strong>SWÓJ MAKE-UP</strong></h2><div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginBottom": "1.5rem",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": { "padding": "1.5rem" },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "INSTANT ERASER",
+                "element": "h3",
+                "properties": {
+                  "fontWeight": "bold",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki doskonale konturuje, koryguje i kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test instrumentalny).",
+                "element": "p",
+                "properties": { "textAlign": "center" }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD07-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "SKY HIGH",
+                "element": "h3",
+                "properties": { "fontWeight": "bold", "textAlign": "center" }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "Mascara, która dzięki innowacyjnej technologii oferuje jednocześnie nieziemskie wydłużenie oraz zwiększoną objętość rzęs.",
+                "element": "p",
+                "properties": { "textAlign": "center" }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD07-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "SUPER STAY LUMI MATTE",
+                "element": "h3",
+                "properties": { "fontWeight": "bold", "textAlign": "center" }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "Podkład do twarzy nadający efekt satynowego matu do 30h.",
+                "element": "p",
+                "properties": { "textAlign": "center" }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD07-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {"paddingInline": "1.5rem"},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
 }
